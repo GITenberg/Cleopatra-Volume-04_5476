@@ -1,5 +1,5 @@
 _repo: Cleopatra-Volume-04_5476
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -37,5 +37,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Biographical fiction'
 - !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Fiction'
+- GITenberg
 title: Cleopatra — Volume 04
 url: http://www.gutenberg.org/ebooks/5476
